@@ -86,3 +86,8 @@ td{
     margin: 40px;
 
 }
+.my-card {
+  background-color: lightgreen;
+  border: 2px solid green;
+  padding: 15px;
+}
